@@ -1,4 +1,5 @@
-# SCORED
+# (SCORED'22) An Empirical Study of Artifacts and Security Risks in the
+Pre-trained Model Supply Chain
 code and data for SCORED conference
 
 ```
